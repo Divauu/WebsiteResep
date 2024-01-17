@@ -12,7 +12,10 @@ Proyek ini bertujuan untuk memberikan informasi tentang resep dan cara membuat N
 
 - Tampilan resep Nasi Pecel Madiun
 - Informasi bahan-bahan dan cara membuat
-- Gambar illustrasi
+- Foto makanan
+
+## Demo
+![Capture](Capture.jpg)
 
 ## Kontribusi
 
